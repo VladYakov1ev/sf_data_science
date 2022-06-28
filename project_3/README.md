@@ -1,4 +1,4 @@
-# Проект 1. Анализ вакансий из HeadHunter
+# Проект 1. EDA + Feature Engineering. Соревнование на Kaggle
 
 ## Оглавление
 [1. Описание проекта](https://github.com/VladYakov1ev/sf_data_science/blob/main/project_3/README.md#Описание-проекта)
